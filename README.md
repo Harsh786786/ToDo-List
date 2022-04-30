@@ -1,4 +1,4 @@
-# ToDo-List![Screenshot (157)]
-(https://user-images.githubusercontent.com/73978943/166095852-2f682dc6-0cfd-4156-aa2f-8c44cf42b034.png)
+# ToDo-List
 
-(https://user-images.githubusercontent.com/73978943/166095853-c592c902-3fdb-4315-ac24-ef396f4edb7e.png)
+![pic1](https://user-images.githubusercontent.com/73978943/166095981-6ff47e52-35d2-4e84-8ba6-513ff2b09d6c.png)
+![pic2](https://user-images.githubusercontent.com/73978943/166095987-cefbd766-b7cb-4848-9734-3018b9c1a759.png)
